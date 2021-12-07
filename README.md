@@ -1,4 +1,4 @@
-# First Person Shooter!
+# First Person Shooter
 ## Unity C# - First Person Shooter
 
 <p align="center">
