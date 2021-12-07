@@ -2,7 +2,7 @@
 ## Unity C# - First Person Shooter
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nacho-Lopez-Guerrero/Spiders-in-my-Office/main/Screenshots/FPS_Title.png?raw=true"/>
+  <img src="https://raw.githubusercontent.com/Nacho-Lopez-Guerrero/First-Person-Shooter/main/Screenshots/FPS_Title.png?raw=true"/>
 </p>
 
 ![Alt text](/Screenshots/FPS_1.jpg?raw=true )
