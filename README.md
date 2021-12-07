@@ -59,8 +59,6 @@ Este fue mi primer proyecto en Unity 3D, 'F.P.S' es un juego de disparos en prim
 
 Teclado:
 
-Teclado:
-
 [W] [A] [S] [D] --> Moverte
 
 [LeftShift] --> Correr
