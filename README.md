@@ -78,7 +78,7 @@ Teclado:
 
 ![Alt text](/Screenshots/FPS_2.jpg?raw=true )
 
-![Alt text](/Screenshots/FPS.jpg?raw=true )
+![Alt text](/Screenshots/FPS_3.jpg?raw=true )
 
 ![Alt text](/Screenshots/FPS_4.jpg?raw=true )
 
